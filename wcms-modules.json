@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "digital wizard": {
+            "name": "Digital Wizard",
+            "repo": "https://github.com/JamesMichaelElmore/DigitalWizard/tree/master",
+            "zip": "https://github.com/JamesMichaelElmore/DigitalWizard/archive/master.zip",
+            "summary": "Default WonderCMS theme",
+            "version": "1",
+            "image": "https://raw.githubusercontent.com/JamesMichaelElmore/DigitalWizard/master/preview.jpg"
+        }
+    }
+}
